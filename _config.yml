@@ -13,12 +13,12 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Lisa Li # author name
   bio: >- # tell to the world
-    Hello! I'm Lisa. I'm friendly and I don't bite. This website is pretty much in progress.
-  username: username # general username
-  github: github_username # github username
+    Hello, I'm Lisa! I'm friendly and I don't bite. This website is a work in progress.
+  username: lisaqyli # general username
+  github: lisaqyli # github username
   twitter: lisaqyli # twitter username
   facebook: facebook_username # facebook username
-  email: your-email@email.com # email adress
+  email: lisali.com@gmail.com # email adress
   avatar: /assets/img/avatar.png # change with your own avatar
 
 # URL settings

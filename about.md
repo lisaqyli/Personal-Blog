@@ -13,4 +13,4 @@ I’m generally curious about other people’s stories and life. I’m quite ope
 **may u needs ✨**
 
 - {{ site.author.email }}
-- github.com/{{ site.author.github }}
+- twitter.com/{{ site.author.twitter }}
