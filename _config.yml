@@ -13,19 +13,19 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Lisa Li # author name
   bio: >- # tell to the world
-    Hello, I'm Lisa! I'm friendly and I don't bite. This website is a work in progress.
+    Hello, I'm Lisa! This website is a work in progress.
   username: lisaqyli # general username
   github: lisaqyli # github username
-  twitter: lisaqyli # twitter username
+  twitter: Therapist_web3 # twitter username
   facebook: facebook_username # facebook username
   email: lisali.com@gmail.com # email adress
   avatar: /assets/img/avatar.png # change with your own avatar
 
 # URL settings
-url: "https://klise.now.sh" #
-baseurl:
+url: "https://lisaqyli.com" #
+baseurl: lisaqyli.com
 permalink: /:title/
-google_analytics: # leave it blank if not wish
+google_analytics: G-5V1JQ8RSKD # leave it blank if not wish
 fb_appid:
 
 # Collection setting
