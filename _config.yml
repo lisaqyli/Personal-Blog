@@ -1,10 +1,9 @@
 # Site settings
 title: Lisa Li # site title
 description: >- # site description
-  He's writing in Bahasa about web technology and experience as a journal 
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
+  This is a personal site for Lisa Li.
 lang: en-US # default lang
-timezone: Asia/Jakarta # set your timezone
+timezone: America/Los_Angeles # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
 mode: dark # default theme "dark" | "light"
@@ -13,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Lisa Li # author name
   bio: >- # tell to the world
-    Hello, I'm Lisa! This website is a work in progress.
+    Hello, I'm Lisa! I build startup, write code and learn something new about the world every day!
   username: lisaqyli # general username
   github: lisaqyli # github username
   twitter: Therapist_web3 # twitter username
