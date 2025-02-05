@@ -14,7 +14,7 @@ Something about me:
 - Live in San Francisco, CA and travel often.
 - I am a 👩‍💻 software engineer in training, studied computer science at Berkeley but I enjoy wearing different hats!
 - Currently building [Blockcast](https://blockcast.network/), at a fascinating intersection of physical infrastructure and crypto (Best job I've had so far)
-- ENTP / INTP, Enneagram Type 7
+- ENTP, Enneagram Type 7w8
 - My personal values include: adventure, kindness, growth, empowerment, openness and connection
 
 Plz do reach out if you think we would vibe or if I can be helpful in any ways. I can easily be motivated by a 🎾 game, food adventure, a walk, good ☕ or 🍵.
