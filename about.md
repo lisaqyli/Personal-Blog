@@ -2,17 +2,17 @@
 title: Hi, I'm Lisa
 permalink: /about/
 layout: page
-excerpt: I build startup, write code and learn something new about the world every day!
+excerpt: I build startups, write code and learn something new about the world every day!
 comments: false
 ---
 
-I build startup, write code and learn something new about the world every day!
+I build startups, write code and learn something new about the world every day!
 
 Something about me:
 
 - Grew up in [Hangzhou, China](https://en.wikipedia.org/wiki/Hangzhou), spent most of my life in Hangzhou and San Francisco Bay Area.
 - Live in San Francisco, CA and travel often.
-- I am a 👩‍💻 software engineer in training, studied computer science at Berkeley but I enjoy wearing different hats!
+- I am a 👩‍💻 software engineer by training, studied computer science at Berkeley but I enjoy wearing different hats!
 - Currently building [Blockcast](https://blockcast.network/), at a fascinating intersection of physical infrastructure and crypto (Best job I've had so far)
 - ENTP, Enneagram Type 7w8
 - My personal values include: adventure, kindness, growth, empowerment, openness and connection

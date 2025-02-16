@@ -12,7 +12,7 @@ mode: light # default theme "dark" | "light"
 author:
   name: Lisa Li # author name
   bio: >- # tell to the world
-    Hello, I'm Lisa! I build startup, write code and learn something new about the world every day!
+    Hello, I'm Lisa! I build startups, write code and learn something new about the world every day!
   username: lisaqyli # general username
   github: lisaqyli # github username
   twitter: Therapist_web3 # twitter username
